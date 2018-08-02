@@ -72,8 +72,8 @@ iabbrev _header_    #>>>>>>>>1>>>>>>>>>2>>>>>>>>>3>>>>>>>>>4>>>>>>>>>5>>>>>>>>>6
                     \#<cr>
                     \# File name   : <cr>
                     \# Revision    : 1.0<cr>
-                    \# Author      : Chuong Le (chuong.le.ct@rvc.renesas.com)<cr>
-                    \#               Renesas Design Vietnam Co., Ltd.<cr>
+                    \# Author      : Chuong Le (chuong8506@gmail.com)<cr>
+                    \#               LHC Co., Ltd.<cr>
                     \# Description : <cr>
                     \# History     :<cr>
                     \#   v1.0      : Initial version<cr>
